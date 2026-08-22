@@ -1,2 +1,25 @@
 # Chatham-Kent Plumbing
-HVAC services in Ontario.
+
+> Chatham-Kent Plumbing is a local HVAC company serving Chatham-Kent, Chatham-Kent, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 901-3519  |  Email: contact@chathamkentplumbing.ca  |  Website: https://chathamkentplumbing.ca
+
+## Key pages
+
+- [Home](https://chathamkentplumbing.ca/): Chatham-Kent Plumbing homepage with service overview and FAQ
+- [About](https://chathamkentplumbing.ca/about/): About the company and service area
+- [Contact](https://chathamkentplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://chathamkentplumbing.ca/services/water-heaters/): Water Heaters in Chatham-Kent, Ontario
+- [Drain Cleaning](https://chathamkentplumbing.ca/services/drain-cleaning/): Drain Cleaning in Chatham-Kent, Ontario
+- [Repiping](https://chathamkentplumbing.ca/services/repiping/): Repiping in Chatham-Kent, Ontario
+- [Fixtures & Toilets](https://chathamkentplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Chatham-Kent, Ontario
+- [Leak Detection & Repair](https://chathamkentplumbing.ca/services/leak-detection/): Leak Detection & Repair in Chatham-Kent, Ontario
+- [Sump Pumps & Backwater](https://chathamkentplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Chatham-Kent, Ontario
+- [Water Softeners & Filtration](https://chathamkentplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Chatham-Kent, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Chatham-Kent are answered on the homepage.
